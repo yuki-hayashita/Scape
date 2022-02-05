@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Scape/static/css/main.75f8b225.css",
+    "main.js": "/Scape/static/js/main.028d94f0.js",
+    "index.html": "/Scape/index.html",
+    "main.75f8b225.css.map": "/Scape/static/css/main.75f8b225.css.map",
+    "main.028d94f0.js.map": "/Scape/static/js/main.028d94f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f8b225.css",
+    "static/js/main.028d94f0.js"
+  ]
+}
